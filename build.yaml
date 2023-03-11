@@ -14,4 +14,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: hummingbird
+    shield: pollex_left
+  - board: seeeduino_xiao_ble
+    shield: pollex_right

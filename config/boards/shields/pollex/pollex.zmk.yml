@@ -1,0 +1,11 @@
+file_format: '1'
+id: pollex
+name: pollex
+type: shield
+url: https://github.com/bmforsyth/zmk-config-pollex
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - pollex_left
+  - pollex_right
