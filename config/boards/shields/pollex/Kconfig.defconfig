@@ -4,7 +4,7 @@
 if SHIELD_POLLEX_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "pollex_star"
+	default "Pollex"
 
 config ZMK_SPLIT_ROLE_CENTRAL
 	default y
